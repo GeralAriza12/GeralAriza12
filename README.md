@@ -2,6 +2,7 @@
 <h1 align="center">Hola, soy Geraldine Ariza 👋</h1>
 </div>
 <img src="https://www.canva.com/design/DAF9DscP2c0/ofypDUgYvCLaJo8ksLceNg/view?utm_content=DAF9DscP2c0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview">
+![IMG](https://github.com/GeralAriza12/GeralAriza12/assets/116414042/f3601a90-4472-4aea-bed8-8c8d8f158ae4)
 
 
 ## Sobre mi
