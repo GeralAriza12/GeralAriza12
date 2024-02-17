@@ -31,23 +31,15 @@
     <td>
        🎥 Manejo de comunicaiones  
     </td>
-</tr>
-<tr>
     <td>
         ✏️ Creativa 
     </td>
-</tr>
-<tr>
     <td>
       🎀 Orientacion al detalle    
     </td>
-</tr>
-<tr>
     <td>
       ✅ Responsable  
     </td>
-</tr>
-<tr>
     <td>
       ⛹🏾‍♂️ Me gusta el baloncesto 🧡  
     </td>
@@ -64,7 +56,6 @@
 <div align="center">
 
 <a href="https://github.com/GeralAriza12/my-react-task-list/tree/review-3/" target="_blank">
-![1701393110655](https://github.com/GeralAriza12/GeralAriza12/assets/116414042/cb793887-9648-47e5-b7e7-309788002c29)
 <vp url="https://www.linkedin.com/posts/geraldine-ariza-perez_programaciaejn-activity-7136159939558850560-gNYz?utm_source=share&utm_medium=member_desktop"></vp>
 <img src="https://github.com/GeralAriza12/GeralAriza12/assets/116414042/854a9ecb-be3d-46ac-98e4-84623b93adca" width="400" alt="my-react-task-list"></a>
 
@@ -87,7 +78,7 @@
 
 <p>
 <a href="https://github.com/GeralAriza12/Shopi_Sachets" target="_blank">
-<img src="https://github.com/GeralAriza12/GeralAriza12/assets/116414042/28d6fdfc-6c58-4142-bc43-bc0571f5c84f">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-000?style=for-the-badge&logo=github&logoColor=whit4>
 </p>
 <p><strong>⚙️EN PRODUCCIÓN ⚙️</strong></p>
 </div>
