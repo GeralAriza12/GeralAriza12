@@ -28,45 +28,72 @@
     </td>
 </tr>
 <tr>
-    🎥 Manejo de comunicaiones 
+    <td>
+       🎥 Manejo de comunicaiones  
+    </td>
 </tr>
 <tr>
-    ✏️ Creativa 
+    <td>
+        ✏️ Creativa 
+    </td>
 </tr>
 <tr>
-   🎀 Orientacion al detalle  
+    <td>
+      🎀 Orientacion al detalle    
+    </td>
 </tr>
 <tr>
-    ✅ Responsable
+    <td>
+      ✅ Responsable  
+    </td>
 </tr>
 <tr>
-    ⛹🏾‍♂️ Me gusta el baloncesto 🧡
+    <td>
+      ⛹🏾‍♂️ Me gusta el baloncesto 🧡  
+    </td>
 </tr>
 </table>
 
 <br>
 
 ## Projects *MAYORES*
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 <h3 align="center">TO DO LIST</h3>
 <div align="center">
 
 <a href="https://github.com/GeralAriza12/my-react-task-list/tree/review-3/" target="_blank">
-<video>
-    <source src="https://www.linkedin.com/posts/geraldine-ariza-perez_programaciaejn-activity-7136159939558850560-gNYz?utm_source=share&utm_medium=member_desktop" type="video/mp4">
-</video>
+![1701393110655](https://github.com/GeralAriza12/GeralAriza12/assets/116414042/cb793887-9648-47e5-b7e7-309788002c29)
+<vp url="https://www.linkedin.com/posts/geraldine-ariza-perez_programaciaejn-activity-7136159939558850560-gNYz?utm_source=share&utm_medium=member_desktop"></vp>
 <img src="https://github.com/GeralAriza12/GeralAriza12/assets/116414042/854a9ecb-be3d-46ac-98e4-84623b93adca" width="400" alt="my-react-task-list"></a>
 
 <p>
-<a href="https://github.com/GeralAriza12/my-react-task-list/tree/review-3/" target="_red">
+<a href="https://github.com/GeralAriza12/my-react-task-list/tree/review-3/" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-000?style=for-the-badge&logo=github&logoColor=whit4">
 </p>
 <p>Aprendiendo desde el <strong>Front-end</strong> hasta el <strong>Back-end</strong>. Regalame una 🌟.⭐</p>
 </div>
                                                                                       
 </td>  
+
+<td width="50%">
+
+<h3 align="center">SHOPI</h3>
+<div align="center">
+
+<a href="https://github.com/GeralAriza12/Shopi_Sachets" target="_blank">
+<img src="https://github.com/GeralAriza12/GeralAriza12/assets/116414042/28d6fdfc-6c58-4142-bc43-bc0571f5c84f" width="400" alt="Shopi_Sachets"></a>
+
+<p>
+<a href="https://github.com/GeralAriza12/Shopi_Sachets" target="_blank">
+<img src="https://github.com/GeralAriza12/GeralAriza12/assets/116414042/28d6fdfc-6c58-4142-bc43-bc0571f5c84f">
+</p>
+<p><strong>⚙️EN PRODUCCIÓN ⚙️</strong></p>
+</div>
+                                                                                      
+</td> 
+
 </table>                                                                                 
 </div>
 <br>
