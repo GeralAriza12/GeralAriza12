@@ -27,27 +27,27 @@
         - SCRUM
     </td>
 <tr>
-     <td colspan="2">
+     <td colspan="2" text-align: center>
        🎥 Manejo de comunicaiones  
     </td>   
 </tr>
 <tr>
-    <td colspan="2">
-        ✏️ Creativa 
+    <td colspan="2" text-align: center;>
+        ✏️ Creativa e innovadora
     </td>
 </tr>
 <tr>
-    <td colspan="2">
+    <td colspan="2" text-align: center;>
       🎀 Orientacion al detalle    
     </td>
 </tr>
 <tr>
-    <td colspan="2">
+    <td colspan="2" text-align: center;>
       ✅ Responsable  
     </td>
 </tr>
 <tr>
-    <td colspan="2">
+    <td colspan="2" text-align: center;>
       ⛹🏾‍♂️ Me gusta el baloncesto 🧡  
     </td>
 </tr>
@@ -97,11 +97,12 @@
 
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/GeralAriza12">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeralAriza12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GeralAriza12&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div>
+    ### ⚙️ &nbsp;GitHub Analytics
+    <p align="center">
+    <a href="https://github.com/GeralAriza12">
+      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeralAriza12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GeralAriza12&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+    </p>
+</div>
