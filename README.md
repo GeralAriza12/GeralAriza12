@@ -4,7 +4,7 @@
 <img src="https://github.com/GeralAriza12/GeralAriza12/assets/116414042/f3601a90-4472-4aea-bed8-8c8d8f158ae4">
 
 
-## Sobre mi
+## About me
 
 
 - ⭐ Full-stack developer ⭐ 
@@ -27,7 +27,7 @@
 
 <br>
 
-## Proyectos *MAYORES*
+## Projects *MAYORES*
 <table>
 <tr>
 <td width="50%">
@@ -36,7 +36,7 @@
 
 <a href="https://github.com/GeralAriza12/my-react-task-list/tree/review-3/" target="_blank">
 [Ver video](https://www.linkedin.com/posts/geraldine-ariza-perez_programaciaejn-activity-7136159939558850560-gNYz?utm_source=share&utm_medium=member_desktop)
-<img src="https://drive.google.com/file/d/11IGXCmTkFvtOgtmmFqfbofQhpEWzONxX/view?usp=drive_link" width="400" alt="my-react-task-list"></a>
+<img src="https://github.com/GeralAriza12/GeralAriza12/assets/116414042/854a9ecb-be3d-46ac-98e4-84623b93adca" width="400" alt="my-react-task-list"></a>
 
 <p>
 <a href="https://github.com/GeralAriza12/my-react-task-list/tree/review-3/" target="_red">
@@ -54,7 +54,7 @@
 
 <p align="center">
 <a href="https://github.com/GeralAriza12">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeralAriza12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GeralAriza12&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeralAriza12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GeralAriza12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
