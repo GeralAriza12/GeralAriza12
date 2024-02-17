@@ -6,19 +6,29 @@
 
 ## About me
 
+- ⭐ Full-stack developer ⭐
+<table>
+<tr>
+    <th>🖥️ Front-end</th>
+    <th>🖨️ Back-end</th>
+</tr>
+<tr>
+    <td width="50%">
+        - HTML
+        - CSS
+        - JavaScript
+        - Git
+        - React 
+    </td>
+    <td>
+        - Express
+        - NodeJS 
+        - MongoDB
+        - SCRUM
+    </td>
+</tr>
 
-- ⭐ Full-stack developer ⭐ 
-- 🖥️ Front-end
-    - HTML
-    - CSS
-    - JavaScript
-    - Git
-    - React 
-- 🖨️ Back-end
-    - Express
-    - NodeJS 
-    - MongoDB
-    - SCRUM
+</table>
 - 🎥 Manejo de comunicaiones 
 - ✏️ Creativa 
 - 🎀 Orientacion al detalle 
