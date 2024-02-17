@@ -26,19 +26,28 @@
         - MongoDB
         - SCRUM
     </td>
-    <td colspan="2" align="center">
+<tr>
+     <td colspan="2">
        🎥 Manejo de comunicaiones  
-    </td>
-    <td colspan="2" align="center">
+    </td>   
+</tr>
+<tr>
+    <td colspan="2">
         ✏️ Creativa 
     </td>
-    <td colspan="2" align="center">
+</tr>
+<tr>
+    <td colspan="2">
       🎀 Orientacion al detalle    
     </td>
-    <td colspan="2" text="center">
+</tr>
+<tr>
+    <td colspan="2">
       ✅ Responsable  
     </td>
-    <td colspan="2" text="center">
+</tr>
+<tr>
+    <td colspan="2">
       ⛹🏾‍♂️ Me gusta el baloncesto 🧡  
     </td>
 </tr>
