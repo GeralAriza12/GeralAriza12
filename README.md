@@ -7,7 +7,7 @@
 ## About me
 
 - ⭐ Full-stack developer ⭐
-<table>
+<table align="center">
 <tr>
     <th>🖥️ Front-end</th>
     <th>🖨️ Back-end</th>
@@ -27,13 +27,22 @@
         - SCRUM
     </td>
 </tr>
-
+<tr>
+    🎥 Manejo de comunicaiones 
+</tr>
+<tr>
+    ✏️ Creativa 
+</tr>
+<tr>
+   🎀 Orientacion al detalle  
+</tr>
+<tr>
+    ✅ Responsable
+</tr>
+<tr>
+    ⛹🏾‍♂️ Me gusta el baloncesto 🧡
+</tr>
 </table>
-- 🎥 Manejo de comunicaiones 
-- ✏️ Creativa 
-- 🎀 Orientacion al detalle 
-- ✅ Responsable
-- ⛹🏾‍♂️ Me gusta el baloncesto
 
 <br>
 
@@ -45,7 +54,9 @@
 <div align="center">
 
 <a href="https://github.com/GeralAriza12/my-react-task-list/tree/review-3/" target="_blank">
-[Ver video](https://www.linkedin.com/posts/geraldine-ariza-perez_programaciaejn-activity-7136159939558850560-gNYz?utm_source=share&utm_medium=member_desktop)
+<video>
+    <source src="https://www.linkedin.com/posts/geraldine-ariza-perez_programaciaejn-activity-7136159939558850560-gNYz?utm_source=share&utm_medium=member_desktop" type="video/mp4">
+</video>
 <img src="https://github.com/GeralAriza12/GeralAriza12/assets/116414042/854a9ecb-be3d-46ac-98e4-84623b93adca" width="400" alt="my-react-task-list"></a>
 
 <p>
