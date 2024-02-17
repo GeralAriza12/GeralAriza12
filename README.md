@@ -27,10 +27,13 @@
         - SCRUM
     </td>
 </tr>
-<tr>
+<tr colspan="2">
     <td>
        🎥 Manejo de comunicaiones  
     </td>
+</tr>
+<tr>
+
     <td>
         ✏️ Creativa 
     </td>
@@ -87,6 +90,7 @@
 
 </table>                                                                                 
 </div>
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
