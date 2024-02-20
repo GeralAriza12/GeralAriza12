@@ -70,7 +70,8 @@
 <a href="https://github.com/GeralAriza12/my-react-task-list/tree/review-3/" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-000?style=for-the-badge&logo=github&logoColor=whit4">
 </p>
-<p>Aprendiendo desde el <strong>Front-end</strong> hasta el <strong>Back-end</strong>. Regalame una 🌟.⭐</p>
+<p>Aprendiendo desde el <strong>Front-end</strong> hasta el <strong>Back-end</strong>.</p>
+<p> Regalame una 🌟.⭐</p>
 </div>
                                                                                       
 </td>  
