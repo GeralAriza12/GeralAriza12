@@ -85,9 +85,9 @@
 
 <p>
 <a href="https://github.com/GeralAriza12/Shopi_Sachets" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-000?style=for-the-badge&logo=github&logoColor=whit4>
+<img src="https://img.shields.io/badge/C%C3%93DIGO-000?style=for-the-badge&logo=github&logoColor=whit4">
 </p>
-<p><strong>⚙️EN PRODUCCIÓN ⚙️</strong></p>
+<p>⚙️<strong>EN PRODUCCIÓN </strong>⚙️</p>
 </div>
                                                                                       
 </td> 
