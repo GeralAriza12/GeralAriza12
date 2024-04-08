@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Geraldine Ariza 👋</h1>
 </div>
-<img src="https://github.com/GeralAriza12/GeralAriza12/assets/116414042/eccabfc3-90e3-44cb-ba55-16f5915885d5">
-
+<img src="https://github.com/GeralAriza12/GeralAriza12/assets/116414042/82898378-1168-4748-bd0d-58bad59de432">
 
 ## About me
 
