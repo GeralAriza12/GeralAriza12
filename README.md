@@ -54,7 +54,7 @@
 
 <br>
 
-## Projects *MAYORES*
+## *Major Projects*
 <table align="center">
 <tr>
 <td width="50%">
